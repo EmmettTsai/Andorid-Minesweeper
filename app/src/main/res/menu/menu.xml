@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_easy"
+        android:icon="@drawable/ic_ball_easy"
+        android:title="@string/easy"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_normal"
+        android:icon="@drawable/ic_ball_normal"
+        android:title="@string/normal"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_hard"
+        android:icon="@drawable/ic_ball_hard"
+        android:title="@string/hard"
+        app:showAsAction="ifRoom"/>
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="easy">Easy (8 x 8)</string>
+    <string name="normal">Normal (16 x 16)</string>
+    <string name="hard">Hard (16 x 30)</string>
+    <string name="key_is_open">KEY_IS_OPEN</string>
+    <string name="key_is_flag">KEY_IS_FLAG</string>
+    <string name="ok">OK</string>
+    <string name="game_over">Game Over!!!</string>
+    <string name="game_clear">Game Clear!!!</string>
+</resources>
